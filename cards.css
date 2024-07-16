@@ -1,0 +1,36 @@
+
+.card-img{
+    border: 1px solid black;
+    padding: 10px;
+    width: 600px;
+    margin: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+    display: flex;
+ 
+    background-color: aquamarine;
+    position: relative;
+    height: 50%;
+}
+.natures{
+    width: 50%;
+    object-fit: cover;
+    
+}
+.header{
+    padding: 5px;
+    margin: -20px 10px;
+    height: 10px;
+    font-family: sans-serif;
+    
+}
+.pp{
+    margin-bottom: 20px;
+}
+.sun{
+    position: absolute;
+    top: 0;
+    left: 50px;
+    color: rgb(165, 11, 11);
+}
